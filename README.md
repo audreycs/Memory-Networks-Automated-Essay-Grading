@@ -1,5 +1,5 @@
 # Automated-Essay-Grading
-An implementation of paper "[A Memory-Augmented Neural Model for Automated Grading](chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=http%3A%2F%2Fdelivery.acm.org%2F10.1145%2F3060000%2F3053982%2Fp189-zhao.pdf%3Fip%3D218.94.142.61%26id%3D3053982%26acc%3DCHORUS%26key%3DBF85BBA5741FDC6E%252E180A41DAF8736F97%252E4D4702B0C3E38B35%252E6D218144511F3437%26__acm__%3D1576589244_38adbca828b48fe23ae695a24f78100d)" in PyTorch.
+An implementation of paper "[A Memory-Augmented Neural Model for Automated Grading](https://dl.acm.org/ft_gateway.cfm?id=3053982&ftid=1865482&dwn=1&CFID=92011169&CFTOKEN=5e86404040ee95d2-C94D3628-D29D-B939-636CA507CEAA3A7B)" in PyTorch.
 
 ## Requirements
 - PyTorch 1.2.0
