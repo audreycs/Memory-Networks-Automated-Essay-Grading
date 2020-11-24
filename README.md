@@ -1,4 +1,4 @@
-# Automated-Essay-Grading
+# Automated Essay Grading: Memory Networks
 An implementation of paper "[A Memory-Augmented Neural Model for Automated Grading](https://dl.acm.org/ft_gateway.cfm?id=3053982&ftid=1865482&dwn=1&CFID=92011169&CFTOKEN=5e86404040ee95d2-C94D3628-D29D-B939-636CA507CEAA3A7B)" in PyTorch.
 
 ## Requirements
